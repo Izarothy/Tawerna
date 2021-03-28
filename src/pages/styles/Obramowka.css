@@ -1,0 +1,13 @@
+.obramowka {
+  overflow: scroll;
+
+  overflow-x: hidden;
+  height: 60vh;
+  width: 55vw;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 22vw;
+  bottom: 10vh;
+
+  padding: 15px;
+}

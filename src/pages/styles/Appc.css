@@ -1,11 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
-body {
-  margin: 0;
-  font-family: Poppins;
-  background-image: url("https://cdna.artstation.com/p/assets/covers/images/031/590/586/large/ivan-cavini-ivan-cavini-new-rivendell.jpg?1604049522");
-  background-size: 100vw;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -20,11 +12,14 @@ li {
 
 li a {
   text-decoration: none;
-  padding: 3vh 20.1vh;
+  padding-top: 2vh;
+  width: 24vw;
+  height: 6vh;
+  text-align: center;
   display: block;
   color: white;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1vw;
 }
 
 li a:hover {

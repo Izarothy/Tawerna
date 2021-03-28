@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 body {
-  margin: 0;
+  --back: green;
+  overflow: hidden;
   font-family: Poppins;
-  background-image: url("https://cdna.artstation.com/p/assets/covers/images/031/590/586/large/ivan-cavini-ivan-cavini-new-rivendell.jpg?1604049522");
+  background-image: url("https://wallpaperaccess.com/full/838293.jpg");
   background-size: 100vw;
 }
